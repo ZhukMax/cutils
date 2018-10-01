@@ -1,2 +1,2 @@
 # count
-Macros for count C arrays
+Macros and functions for C
